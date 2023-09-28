@@ -7,7 +7,7 @@ public class UserRegistation {
 	public static void main(String[] args) {
 		
 		Pwdsecurityservice pss = new Pwdsecurityservice();
-		 String encode = pss.encord("sanjay biswal");
+		 String encode = pss.encord("sanjay biswal2");
 		 System.out.println(encode);
 		 
 	}
