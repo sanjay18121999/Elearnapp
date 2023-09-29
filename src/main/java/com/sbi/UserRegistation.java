@@ -11,7 +11,7 @@ public class UserRegistation {
 		 String encode = pss.encord("sanjay biswal65");
 
 		 System.out.println(encode);
-		 
+		 System.out.println("sanjay");
 	}
 
 }
